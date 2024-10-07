@@ -1,3 +1,5 @@
+# BDA Course Project 
+
 # Data-analysis-for-India-Tourism
 <hr>
 Big Data Analysis Project. Analysis of Indian Tourism using R language.
@@ -43,4 +45,4 @@ Here I, have plotted a Bar graph, Heat-Map for the first 20 entries, line graph 
      |-----------|---------| 
      | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/84d9d03a-d6b1-4d6d-962e-5685fdc6392e) | ![image](https://github.com/Shubs2002/Data-analysis-for-India-Tourism/assets/97461214/97854f08-8c87-4e82-bd6f-2ee689b4792b) |
 
-## !!!Happy Hacking!!!
+
